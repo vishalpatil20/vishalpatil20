@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vishalpatil20
-- 👀 I’m interested in web development and blockchai tech.
+- 👀 I’m interested in web development and blockchain tech.
 - 🌱 I’m currently learning b.tech in INFORMATION TECHNOLOGY
 - 💞️ I’m looking to collaborate on WEB DEVELOPMENT
 - 📫 How to reach me AT MY MAIL rvish9999@gmail.com
