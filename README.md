@@ -41,3 +41,4 @@ A code enthu who is stuck between web2 and web3. Also love open source contribut
 <a href="http://www.github.com/vishalpatil20"><img src="https://github-readme-stats.vercel.app/api?username=vishalpatil20&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ef4444&icon_color=ef4444&bg_color=000000&hide_border=true&show_icons=true" alt="vishalpatil20's GitHub stats" /></a>
 
 <a href="https://github.com/vishalpatil20" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalpatil20&langs_count=10&title_color=ffffff&text_color=ef4444&icon_color=ef4444&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![@vishalpatil_r20's Holopin board](https://holopin.io/api/user/board?user=vishalpatil_r20)](https://holopin.io/@vishalpatil_r20)
