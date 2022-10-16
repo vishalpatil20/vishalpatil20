@@ -9,7 +9,7 @@ A code enthu who is stuck between web2 and web3. Also love open source contribut
 * 🌍  I'm based in Mysore,Karnataka
 * ✉️  You can contact me at [rvish9999@gmail.com](mailto:rvish9999@gmail.com)
 * 🧠  I'm learning React and Solidity
-* 🤝  I'm open to collaborating on web2 and 3 projects
+* 🤝  I'm open to collaborating on web2 and web3 projects
 
 ### Skills
 
